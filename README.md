@@ -39,9 +39,9 @@ A lo largo del trabajo se realiza:
 
 ## 🌐 Detalles técnicos
 
-- **Virtualizador usado**: Oracle VM VirtualBox
-- **SO anfitrión (host)**: [Windows 11]
-- **SO invitado (VM)**: Ubuntu [versión]
+- **Virtualizador usado**: [Oracle VM VirtualBox [7.1.10]](https://www.virtualbox.org/wiki/Downloads)
+- **SO anfitrión (host)**: [Windows 11](https://www.microsoft.com/en-us/windows/get-windows-11)
+- **SO invitado (VM)**: [Ubuntu [24.04.2 LTS]](https://discourse.ubuntu.com/t/ubuntu-24-04-lts-noble-numbat-release-notes/39890)
 - **Modo de red usado**: Adaptador puente (Bridge Adapter)
 - **Comandos utilizados**:
   - `ip a` (en Ubuntu)
