@@ -33,7 +33,7 @@ A lo largo del trabajo se realiza:
 - 🎥 `video.mp4`:  
   Archivo de video con explicación audiovisual del trabajo.  
   Tambien se puede visualizar en el siguiente enlace:  
-🔗 [Ver video en YouTube](https://www.youtube.com/watch?v=xxxxxxxxxxx)
+🔗 [Ver video en YouTube](https://youtu.be/Z4w0350qnl4)
 
 ---
 
