@@ -28,6 +28,9 @@ A lo largo del trabajo se realiza:
 - 📄 `TPI-Virtualizacion-NMacaris-MSCouchot.pdf`:  
   Informe teórico del trabajo práctico con desarrollo de los temas tratados en el video.
 
+- 📄 `General presentation.pptx`
+  TODO
+
 - 📁 `anexos/`:  
   Carpeta con capturas y evidencias del proceso de instalación y pruebas de red.
 
