@@ -14,6 +14,7 @@ A lo largo del trabajo se realiza:
 
 - Instalación de VirtualBox.
 - Creación e instalación de una máquina virtual con Ubuntu.
+- Verificacíon de recursos asignados desde la máquina virtual.
 - Configuración de red para conexión a internet.
 - Verificación de conectividad entre el host (máquina real) y la VM.
 - Demostración de intercambio de paquetes mediante `ping`.
@@ -30,7 +31,7 @@ A lo largo del trabajo se realiza:
 - 📁 `anexos/`:  
   Carpeta con capturas y evidencias del proceso de instalación y pruebas de red.
 
-- 🎥 `video.mp4`:  
+- 🎥 `TPI AYSO.mp4`:  
   Archivo de video con explicación audiovisual del trabajo.  
   Tambien se puede visualizar en el siguiente enlace:  
 🔗 [Ver video en YouTube](https://youtu.be/Z4w0350qnl4)
